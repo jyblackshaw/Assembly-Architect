@@ -1,9 +1,9 @@
 # Assembly-Architect
-A Unity Editor tool to help visualize and manage assembly relationships, fix assembly related errors, and estimate compile times
+A Unity Editor tool to help visualize and manage assembly relationships, fix assembly related errors, and estimate compile times.
 
 <img width="2560" height="1440" alt="cover1" src="https://github.com/user-attachments/assets/b07eeb41-f949-4f66-af0a-863c231f0b27" />
 
-Please see the following links, they delve much deeper into how the asset works.
+See the following links for a deeper understanding of the asset. No code is included here since this is a commercial product.
 
 [Asset Link](https://u3d.as/3MJv)
 
