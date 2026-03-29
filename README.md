@@ -16,5 +16,5 @@ See the following links for a deeper understanding of the asset. No code is incl
 - Automatic Asmdef Error Resolution
 
 # Results
-- Released 3/23/26
+- Since 3/23/26 has generated 500$+
 
